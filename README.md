@@ -9,6 +9,13 @@
 
 # Communicate using Markdown
 
+### Code example
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
 ## _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
 <!--
