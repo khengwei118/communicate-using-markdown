@@ -1,13 +1,29 @@
 <!--
   <<< Author notes: Header of the course >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
+  # Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
 
+### Header example
 # Communicate using Markdown
 
-_Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
+### Image example
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+### Code example
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+### Task list example
+- [x] Task 1
+- [x] Task 2
+- [ ] Task 3
+
+## _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
 <!--
   <<< Author notes: Start of the course >>>
