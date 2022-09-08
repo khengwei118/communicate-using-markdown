@@ -5,9 +5,11 @@
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-
+### Header example
 # Communicate using Markdown
+
+### Image example
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ### Code example
 
@@ -15,6 +17,11 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+### Task list example
+- [x] Task 1
+- [x] Task 2
+- [ ] Task 3
 
 ## _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
